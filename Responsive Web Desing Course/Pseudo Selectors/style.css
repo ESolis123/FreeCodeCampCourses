@@ -44,4 +44,12 @@ section{
     max-width: 40rem;
     margin: 0 auto;
     border: 2px solid #d0d0d5;
-  }
+}
+
+
+#years{
+    display: flex;
+    position:sticky;
+    top:0;
+    justify-content: flex-end;
+}
