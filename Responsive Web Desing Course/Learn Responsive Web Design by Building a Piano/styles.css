@@ -12,6 +12,7 @@ html{
     height: 290px;
     margin:80px auto;
     padding: 90px 20px 0 20px;
+    position: relative;
 }
 
 .keys{
@@ -38,9 +39,12 @@ html{
     width: 32px;
     height: 100px;
 }
-/* position of absolute and a top set to 23px.*/
+
 .logo{
     width: 200px;
     position: absolute;
     top: 23px;
 }
+
+
+
