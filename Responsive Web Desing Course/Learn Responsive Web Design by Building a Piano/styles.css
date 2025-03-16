@@ -13,6 +13,7 @@ html{
     margin:80px auto;
     padding: 90px 20px 0 20px;
     position: relative;
+    border-radius: 10px;
 }
 
 .keys{
@@ -45,6 +46,5 @@ html{
     position: absolute;
     top: 23px;
 }
-
 
 
