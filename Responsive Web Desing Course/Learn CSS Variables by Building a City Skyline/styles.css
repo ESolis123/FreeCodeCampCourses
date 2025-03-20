@@ -28,6 +28,12 @@ body
 
 }
 
+.window-wrap{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
 .background-buildings {
     width: 100%;
     height: 100%;
