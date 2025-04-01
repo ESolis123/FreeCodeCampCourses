@@ -93,4 +93,5 @@ img{
     grid-auto-flow: column;
     grid-auto-columns: 1fr;
     align-items: center;
+    text-align: justify;
 }
