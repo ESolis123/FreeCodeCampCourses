@@ -39,4 +39,5 @@ body{
   );
   position: absolute;
   transform: skew(0deg, 44deg);
+  z-index: 2;
 }
