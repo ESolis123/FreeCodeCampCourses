@@ -87,3 +87,7 @@ body{
   top: -75px;
   right: -75px;
 }
+
+.penguin *{
+  position: absolute;
+}
