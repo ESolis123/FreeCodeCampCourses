@@ -222,10 +222,13 @@ body{
   border-radius: 50%;
 }
 
-.foot.left{
+.foot.left {
   left: 25%;
+  transform: rotate(80deg);
 }
 
-.foot.right{
+.foot.right {
   right: 25%;
+  transform: rotate(-80deg);
+
 }
